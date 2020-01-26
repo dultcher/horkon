@@ -1,0 +1,33 @@
+.connect {
+    background-image: url("source/img/computer.jpg");
+    height: 250px;
+    width: 100%;
+    
+}
+
+
+.btnstyle  {
+    background-color: rgb(255, 187, 0);
+    color: rgb(0, 0, 0);
+    border-radius: 0px;
+    border-color: rgb(255, 187, 0);
+}
+.btnstyle:hover  {
+    background-color: rgb(0, 0, 0);
+    border-color: rgb(0, 0, 0);
+    color: white;
+}
+
+.signin {
+  
+  margin-left: 28%;
+}
+
+.conmob {
+font-size: 3em;
+padding-top: 80px;
+}
+
+.space {
+  margin-top: 100px;
+}

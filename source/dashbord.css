@@ -1,0 +1,21 @@
+.col3bg {
+background-color: rgb(247, 247, 247);
+height: 500px;
+}
+
+.col2bg {
+background-color: rgb(247, 247, 247);
+height: 500px;
+width: 100%;
+}
+
+
+.btncss a {
+    text-decoration: none;
+    
+}
+
+.dashsum {
+    height: 200px;
+    background-color: rgba(0, 0, 0, 0.712)
+}
